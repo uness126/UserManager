@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Register xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.microsoft.com/crm/2011/tools/pluginregistration">
+  <Solutions>
+    <Solution Assembly="MaintenanceIn.MaintenanceInPlugins.dll" Id="00000000-0000-0000-0000-000000000000" IsolationMode="None" SourceType="Database">
+      <PluginTypes>
+        <clear />
+        <Plugin Description="Plug-in to Create of systemuser" FriendlyName="Create of SystemUser" Name="MaintenanceIn.MaintenanceInPlugins.PreOpSystemUser" Id="00000000-0000-0000-0000-000000000000" TypeName="MaintenanceIn.MaintenanceInPlugins.PreOpSystemUser">
+          <Steps>
+            <clear />
+            <Step AsyncAutoDelete="false" Name="PreOpSystemUser" Description="Create of systemuser(1.0)" Id="00000000-0000-0000-0000-000000000000" ImpersonatingUserId="00000000-0000-0000-0000-000000000000" MessageName="Create" Mode="Synchronous" PrimaryEntityName="systemuser" Rank="1" Stage="PreOutsideTransaction" SupportedDeployment="ServerOnly" MessageEntityId="00000000-0000-0000-0000-000000000000">
+              <Images />
+            </Step>
+          </Steps>
+        </Plugin>
+      </PluginTypes>
+    </Solution>
+  </Solutions>
+  <XamlWorkflows />
+</Register>

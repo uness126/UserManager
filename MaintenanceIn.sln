@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{88A30576-7583-4F75-8136-5EFD2C14ADFF}") = "MaintenanceIn", "MaintenanceIn\MaintenanceIn.csproj", "{1E6106EC-58E4-4447-ADE3-A4EEAF5FEA85}"
+	ProjectSection(ProjectDependencies) = postProject
+		{91DB49FD-B250-4DE9-AA63-A058CFD8344B} = {91DB49FD-B250-4DE9-AA63-A058CFD8344B}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaintenanceInPlugins", "MaintenanceInPlugins\MaintenanceInPlugins.csproj", "{91DB49FD-B250-4DE9-AA63-A058CFD8344B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E6106EC-58E4-4447-ADE3-A4EEAF5FEA85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E6106EC-58E4-4447-ADE3-A4EEAF5FEA85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E6106EC-58E4-4447-ADE3-A4EEAF5FEA85}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1E6106EC-58E4-4447-ADE3-A4EEAF5FEA85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E6106EC-58E4-4447-ADE3-A4EEAF5FEA85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E6106EC-58E4-4447-ADE3-A4EEAF5FEA85}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{91DB49FD-B250-4DE9-AA63-A058CFD8344B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91DB49FD-B250-4DE9-AA63-A058CFD8344B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91DB49FD-B250-4DE9-AA63-A058CFD8344B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91DB49FD-B250-4DE9-AA63-A058CFD8344B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AF332A7-733C-4DB6-954E-1DBE3C6BA737}
+	EndGlobalSection
+	GlobalSection(CRMSolutionProperties) = preSolution
+		SolutionIsBoundToCRM = True
+	EndGlobalSection
+EndGlobal

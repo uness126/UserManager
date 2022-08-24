@@ -1,0 +1,66 @@
+c:\users\saleinuness\documents\visual studio 2015\Projects\MaintenanceIn\MaintenanceInPlugins\bin\Debug\MaintenanceIn.MaintenanceInPlugins.dll
+c:\users\saleinuness\documents\visual studio 2015\Projects\MaintenanceIn\MaintenanceInPlugins\bin\Debug\MaintenanceIn.MaintenanceInPlugins.pdb
+c:\users\saleinuness\documents\visual studio 2015\Projects\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\users\saleinuness\documents\visual studio 2015\Projects\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\saleinuness\documents\visual studio 2015\Projects\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Microsoft.Xrm.Sdk.xml
+c:\users\saleinuness\documents\visual studio 2015\Projects\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+c:\users\saleinuness\documents\visual studio 2015\Projects\MaintenanceIn\MaintenanceInPlugins\obj\Debug\MaintenanceIn.MaintenanceInPlugins.dll
+c:\users\saleinuness\documents\visual studio 2015\Projects\MaintenanceIn\MaintenanceInPlugins\obj\Debug\MaintenanceIn.MaintenanceInPlugins.pdb
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\MaintenanceIn.MaintenanceInPlugins.dll
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\MaintenanceIn.MaintenanceInPlugins.pdb
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Microsoft.Xrm.Sdk.dll
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Microsoft.Xrm.Sdk.xml
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\obj\Debug\MaintenanceIn.MaintenanceInPlugins.dll
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\obj\Debug\MaintenanceIn.MaintenanceInPlugins.pdb
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\obj\Debug\MaintenanceIn.MaintenanceInPlugins.Properties.Resources.resources
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\obj\Debug\MaintenanceInPlugins.csproj.GenerateResource.Cache
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.Auth.dll
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.Core.dll
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.dll
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.Drive.v3.dll
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.PlatformServices.dll
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Newtonsoft.Json.dll
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.Auth.pdb
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.Auth.xml
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.Drive.v3.pdb
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.Drive.v3.xml
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Newtonsoft.Json.xml
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.pdb
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.xml
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.Core.pdb
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.Core.xml
+E:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\obj\Debug\MaintenanceInPlugins.csprojResolveAssemblyReference.cache
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\MaintenanceIn.MaintenanceInPlugins.dll
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\MaintenanceIn.MaintenanceInPlugins.pdb
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.Auth.dll
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.Core.dll
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.dll
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.Drive.v3.dll
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.PlatformServices.dll
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Newtonsoft.Json.dll
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.pdb
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.xml
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.Auth.pdb
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.Auth.xml
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.Core.pdb
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.Core.xml
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.Drive.v3.pdb
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Google.Apis.Drive.v3.xml
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\bin\Debug\Newtonsoft.Json.xml
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\obj\Debug\MaintenanceIn.MaintenanceInPlugins.Properties.Resources.resources
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\obj\Debug\MaintenanceInPlugins.csproj.GenerateResource.cache
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\obj\Debug\MaintenanceInPlugins.csproj.CoreCompileInputs.cache
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\obj\Debug\MaintenanceInPlugins.csproj.CopyComplete
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\obj\Debug\MaintenanceIn.MaintenanceInPlugins.dll
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\obj\Debug\MaintenanceIn.MaintenanceInPlugins.pdb
+G:\Source Code\C# App\MaintenanceIn\MaintenanceInPlugins\obj\Debug\MaintenanceInPlugins.csprojAssemblyReference.cache
+G:\Source Code\C# App\MaintenanceIn - (User Manager)\MaintenanceInPlugins\obj\Debug\MaintenanceInPlugins.csprojAssemblyReference.cache
+G:\Source Code\C# App\MaintenanceIn - (User Manager)\MaintenanceInPlugins\obj\Debug\MaintenanceInPlugins.csproj.GenerateResource.cache
+G:\Source Code\C# App\MaintenanceIn - (User Manager)\MaintenanceInPlugins\obj\Debug\MaintenanceIn.MaintenanceInPlugins.dll
+G:\Source Code\C# App\MaintenanceIn - (User Manager)\MaintenanceInPlugins\obj\Debug\MaintenanceIn.MaintenanceInPlugins.pdb
+G:\Source Code\C# App\MaintenanceIn - (User Manager)\MaintenanceInPlugins\obj\Debug\MaintenanceIn.MaintenanceInPlugins.Properties.Resources.resources
+G:\Source Code\C# App\MaintenanceIn - (User Manager)\MaintenanceInPlugins\obj\Debug\MaintenanceInPlugins.csproj.CoreCompileInputs.cache

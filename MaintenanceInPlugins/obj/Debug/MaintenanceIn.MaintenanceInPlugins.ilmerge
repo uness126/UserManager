@@ -1,0 +1,10 @@
+MaintenanceIn.MaintenanceInPlugins.dll
+Microsoft.Crm.Sdk.Proxy.dll
+Microsoft.Xrm.Sdk.dll
+Google.Apis.Auth.dll
+Google.Apis.Auth.PlatformServices.dll
+Google.Apis.Core.dll
+Google.Apis.dll
+Google.Apis.Drive.v3.dll
+Google.Apis.PlatformServices.dll
+Newtonsoft.Json.dll
