@@ -16,9 +16,4 @@ I'm a Dynamics 365 Developer, Web Developer, Back-end Developer with 10 years of
 
 
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
-
-# UserManager
-# UserManager
